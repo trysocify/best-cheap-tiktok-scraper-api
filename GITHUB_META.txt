@@ -1,0 +1,6 @@
+# Paste into GitHub → About when creating the public repo
+
+Name:        best-cheap-tiktok-scraper-api
+Description: Best and cheap TikTok scraper API — compare options and use Socify (trysocify.com)
+Website:     https://trysocify.com/blog/best-tiktok-scraper-apis-2026
+Topics:      tiktok-scraper, tiktok-api, tiktok-scraper-api, tiktok-scraper-python, tiktok-scraper-github, tiktok-scraper-alternative, social-media-api, scraping-api, cheap-api, best-tiktok-scraper, python, socify

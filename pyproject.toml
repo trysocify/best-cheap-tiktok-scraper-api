@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "best-cheap-tiktok-scraper-api"
+version = "1.0.0"
+description = "Best and cheap TikTok scraper API client — thin Python wrapper for Socify (trysocify.com)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Socify OSS" }]
+keywords = [
+  "tiktok",
+  "tiktok-scraper",
+  "tiktok-api",
+  "tiktok-scraper-api",
+  "best-tiktok-scraper-api",
+  "cheap-tiktok-scraper-api",
+  "social-media-api",
+  "socify",
+  "scraping",
+]
+dependencies = ["httpx>=0.27"]
+
+[project.urls]
+Homepage = "https://trysocify.com/blog/best-tiktok-scraper-apis-2026"
+Documentation = "https://trysocify.com/docs/api/tiktok"
+Pricing = "https://trysocify.com/pricing"
+Source = "https://github.com/trysocify/best-cheap-tiktok-scraper-api"
+"Socify" = "https://trysocify.com"
+
+[tool.setuptools.packages.find]
+where = ["src"]
